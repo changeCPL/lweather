@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/res/merged/release/raw/province.txt",
+        "source": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/res/raw/province.txt"
+    },
+    {
+        "merged": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/res/merged/release/raw/city.txt",
+        "source": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/res/raw/city.txt"
+    },
+    {
+        "merged": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/res/merged/release/raw/county.txt",
+        "source": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/res/raw/county.txt"
+    }
+]

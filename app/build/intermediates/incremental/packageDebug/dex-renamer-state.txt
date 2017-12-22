@@ -1,0 +1,7 @@
+#Fri Dec 22 23:56:44 CST 2017
+base.0=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ee622b089274e6ed824ec4566976872e593753a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_597e38019c9818b5c704de1244c0b0584784c81e/classes.dex
+base.1=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_597e38019c9818b5c704de1244c0b0584784c81e
+file.0=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ee622b089274e6ed824ec4566976872e593753a/classes.dex

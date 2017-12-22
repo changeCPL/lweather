@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/cpl/.android/build-cache/bc9783100e85bb4b82cea8f1d235df467fe7161e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/cpl/.android/build-cache/bc9783100e85bb4b82cea8f1d235df467fe7161e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

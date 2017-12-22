@@ -1,0 +1,16 @@
+#Fri Dec 22 22:30:17 CST 2017
+renamed.4=classes4.dex
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+base.4=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_731ecf5a89fe93e5da1bf5d05af12e7b6b51bde9
+renamed.0=classes5.dex
+base.3=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d23762f83c2ede60e335013fafadeaf231fba1a
+base.2=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_9154599fb8c91ee574f475c9ea9844453d1f54d3
+base.1=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d95d1209b713e01ea570a2a978dceb5f5693f34
+base.0=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_afb0a42155be31af1f4e8b2421e44fafe9e8bbe3
+file.4=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_731ecf5a89fe93e5da1bf5d05af12e7b6b51bde9/classes.dex
+file.3=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d23762f83c2ede60e335013fafadeaf231fba1a/classes.dex
+file.2=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_9154599fb8c91ee574f475c9ea9844453d1f54d3/classes.dex
+file.1=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d95d1209b713e01ea570a2a978dceb5f5693f34/classes.dex
+file.0=/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_afb0a42155be31af1f4e8b2421e44fafe9e8bbe3/classes.dex

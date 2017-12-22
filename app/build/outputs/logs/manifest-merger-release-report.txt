@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/cpl/.android/build-cache/bc9783100e85bb4b82cea8f1d235df467fe7161e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/cpl/.android/build-cache/95a3662032dd35ab5eea7a0c0b720d2b37667240/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:17:5-92
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:19:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:21:5-100
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:21:22-81
+application
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:23:5-58:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/cpl/.android/build-cache/bc9783100e85bb4b82cea8f1d235df467fe7161e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/cpl/.android/build-cache/95a3662032dd35ab5eea7a0c0b720d2b37667240/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:26:9-38
+	android:theme
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:24:9-39
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:29:9-32:21
+	android:value
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:30:13-52
+activity#com.coolweather.app.activity.ChooseAreaActivity
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:34:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.coolweather.app.activity.WeatherActivity
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:42:19-78
+service#com.coolweather.app.service.AutoUpdateService
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:45:9-46:19
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:45:18-78
+receiver#com.coolweather.app.receiver.AutoUpdateReceiver
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:48:19-81
+service#com.baidu.location.f
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:51:9-55:19
+	android:enabled
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:51:54-76
+	android:process
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:51:77-102
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:51:18-53
+intent-filter#com.baidu.location.service_v2.6
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:52:13-54:29
+action#com.baidu.location.service_v2.6
+ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:53:17-81
+	android:name
+		ADDED from /home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/src/main/AndroidManifest.xml:53:25-71

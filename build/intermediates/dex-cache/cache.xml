@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ee622b089274e6ed824ec4566976872e593753a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad62efa3a8237854e751b2a7e0044f25f400f133">
+        <dex dex="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_597e38019c9818b5c704de1244c0b0584784c81e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e77fdc8ea068bd94d3bc889c9fd32b12b5fde15">
+        <dex dex="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_afb0a42155be31af1f4e8b2421e44fafe9e8bbe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e77fdc8ea068bd94d3bc889c9fd32b12b5fde15">
+        <dex dex="/home/cpl/hd1/study/Android/ASProjects/coolweather-master1/app/build/intermediates/pre-dexed/release/BaiduLBS_Android_afb0a42155be31af1f4e8b2421e44fafe9e8bbe3.jar" />
+    </item>
+
+</items>
